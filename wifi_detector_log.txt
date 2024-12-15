@@ -35,3 +35,4 @@ Added suspicious packet logging - 12/21/2024 13:51:39
 Improved packet classification - 12/21/2024 14:29:21
 Improved scanning efficiency - 12/21/2024 20:16:43
 Improved threat alert notifications - 12/15/2024 21:20:39
+Added wireless anomaly detection - 12/15/2024 12:16:07
