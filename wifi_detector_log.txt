@@ -43,3 +43,4 @@ Enhanced deauth attack simulation - 12/20/2024 12:26:13
 Enhanced deauth attack simulation - 12/20/2024 22:08:01
 Enhanced adapter configuration support - 12/18/2024 14:33:09
 Initialized WiFi packet monitoring module - 12/18/2024 19:48:05
+Enhanced adapter configuration support - 12/18/2024 15:18:38
