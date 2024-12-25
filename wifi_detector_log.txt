@@ -52,3 +52,4 @@ Updated packet inspection module - 12/23/2024 17:52:31
 Enhanced network traffic visualization - 12/23/2024 14:29:41
 Improved attack pattern analysis - 12/25/2024 17:33:00
 Updated deauth detection heuristics - 12/25/2024 22:53:05
+Added wireless anomaly detection - 12/25/2024 16:45:35
