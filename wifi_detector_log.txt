@@ -56,3 +56,4 @@ Added wireless anomaly detection - 12/25/2024 16:45:35
 Enhanced access point monitoring - 12/27/2024 13:49:10
 Improved attack pattern analysis - 12/27/2024 12:04:31
 Added MAC address monitoring - 12/27/2024 17:08:06
+Enhanced deauth attack simulation - 12/27/2024 21:10:51
