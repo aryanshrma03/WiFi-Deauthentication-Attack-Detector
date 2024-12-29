@@ -64,3 +64,4 @@ Updated wireless adapter compatibility - 01/01/2025 16:22:33
 Added traffic anomaly scoring - 01/01/2025 17:33:43
 Updated threat detection rules - 12/29/2024 22:37:45
 Added deauthentication packet detection - 12/29/2024 19:35:18
+Added MAC address monitoring - 12/29/2024 20:53:34
