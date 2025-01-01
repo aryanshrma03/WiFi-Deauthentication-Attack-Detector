@@ -60,3 +60,4 @@ Enhanced deauth attack simulation - 12/27/2024 21:10:51
 Updated monitoring dashboard - 01/01/2025 13:35:22
 Enhanced access point monitoring - 01/01/2025 20:26:47
 Added wireless anomaly detection - 01/01/2025 20:21:48
+Updated wireless adapter compatibility - 01/01/2025 16:22:33
