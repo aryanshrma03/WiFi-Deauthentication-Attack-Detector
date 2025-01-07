@@ -82,3 +82,4 @@ Added traffic anomaly scoring - 01/08/2025 11:24:19
 Improved scanning efficiency - 01/08/2025 22:30:48
 Updated monitoring dashboard - 01/08/2025 10:30:34
 Enhanced detection algorithm accuracy - 01/07/2025 18:26:54
+Added MAC address monitoring - 01/07/2025 22:31:52
