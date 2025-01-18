@@ -85,3 +85,4 @@ Enhanced detection algorithm accuracy - 01/07/2025 18:26:54
 Added MAC address monitoring - 01/07/2025 22:31:52
 Added MAC address monitoring - 01/07/2025 11:05:50
 Enhanced wireless monitoring engine - 01/07/2025 18:39:52
+Added fake access point detection - 01/18/2025 16:50:50
