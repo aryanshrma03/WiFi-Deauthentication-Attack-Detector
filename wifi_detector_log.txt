@@ -89,3 +89,4 @@ Added fake access point detection - 01/18/2025 16:50:50
 Improved scanner initialization - 01/18/2025 18:11:47
 Added MAC address monitoring - 01/18/2025 10:27:08
 Added traffic anomaly scoring - 01/18/2025 20:18:54
+Improved signal strength analysis - 01/18/2025 17:52:02
