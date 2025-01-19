@@ -107,3 +107,4 @@ Improved wireless traffic analysis - 01/24/2025 15:55:38
 Improved scanning efficiency - 01/24/2025 14:52:33
 Fixed packet capture inconsistencies - 01/24/2025 18:04:18
 Improved signal strength analysis - 01/19/2025 20:07:27
+Updated deauth detection heuristics - 01/19/2025 10:36:44
