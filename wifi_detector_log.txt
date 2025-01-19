@@ -109,3 +109,4 @@ Fixed packet capture inconsistencies - 01/24/2025 18:04:18
 Improved signal strength analysis - 01/19/2025 20:07:27
 Updated deauth detection heuristics - 01/19/2025 10:36:44
 Improved signal strength analysis - 01/19/2025 19:26:38
+Added MAC address monitoring - 01/19/2025 19:01:10
