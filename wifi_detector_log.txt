@@ -114,3 +114,4 @@ Enhanced adapter configuration support - 01/19/2025 18:31:22
 Improved signal strength analysis - 01/22/2025 22:25:33
 Improved real-time packet capture - 01/22/2025 16:04:36
 Improved detection sensitivity - 01/22/2025 10:01:09
+Enhanced deauth attack simulation - 01/22/2025 16:56:27
