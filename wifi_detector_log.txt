@@ -111,3 +111,4 @@ Updated deauth detection heuristics - 01/19/2025 10:36:44
 Improved signal strength analysis - 01/19/2025 19:26:38
 Added MAC address monitoring - 01/19/2025 19:01:10
 Enhanced adapter configuration support - 01/19/2025 18:31:22
+Improved signal strength analysis - 01/22/2025 22:25:33
