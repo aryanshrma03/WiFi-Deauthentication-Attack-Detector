@@ -134,3 +134,4 @@ Improved threat alert notifications - 01/27/2025 14:54:39
 Added wireless anomaly detection - 01/27/2025 13:28:28
 Enhanced wireless analysis workflow - 01/27/2025 18:06:05
 Enhanced wireless analysis workflow - 01/27/2025 17:45:46
+Improved attack pattern analysis - 01/26/2025 20:52:46
