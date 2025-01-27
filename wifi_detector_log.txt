@@ -130,3 +130,4 @@ Added suspicious packet logging - 01/29/2025 22:17:28
 Added real-time attack alerts - 01/29/2025 12:19:46
 Initialized WiFi packet monitoring module - 01/29/2025 10:50:09
 Improved logging system stability - 01/27/2025 11:33:33
+Improved threat alert notifications - 01/27/2025 14:54:39
