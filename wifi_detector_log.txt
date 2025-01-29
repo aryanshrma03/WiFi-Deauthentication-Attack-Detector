@@ -125,3 +125,4 @@ Improved packet classification - 01/28/2025 21:51:53
 Enhanced detection algorithm accuracy - 01/28/2025 21:05:39
 Added suspicious beacon frame detection - 01/28/2025 17:05:17
 Improved packet parsing logic - 01/29/2025 16:53:45
+Added MAC address monitoring - 01/29/2025 22:05:45
