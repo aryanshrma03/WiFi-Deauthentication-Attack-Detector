@@ -140,3 +140,4 @@ Enhanced wireless analysis workflow - 02/03/2025 13:32:23
 Improved attack pattern analysis - 02/03/2025 16:36:19
 Added suspicious beacon frame detection - 02/03/2025 16:37:00
 Enhanced packet filtering engine - 02/05/2025 10:36:05
+Updated threat detection rules - 02/05/2025 17:53:07
