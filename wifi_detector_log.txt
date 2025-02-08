@@ -143,3 +143,4 @@ Enhanced packet filtering engine - 02/05/2025 10:36:05
 Updated threat detection rules - 02/05/2025 17:53:07
 Updated wireless adapter compatibility - 02/05/2025 11:31:40
 Improved scanner initialization - 02/08/2025 10:35:19
+Enhanced wireless monitoring engine - 02/08/2025 17:10:35
