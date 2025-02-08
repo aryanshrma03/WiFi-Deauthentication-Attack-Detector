@@ -146,3 +146,4 @@ Improved scanner initialization - 02/08/2025 10:35:19
 Enhanced wireless monitoring engine - 02/08/2025 17:10:35
 Improved packet parsing logic - 02/08/2025 11:09:43
 Added fake access point detection - 02/08/2025 13:30:52
+Enhanced detection algorithm accuracy - 02/08/2025 13:37:36
