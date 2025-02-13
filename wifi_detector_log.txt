@@ -158,3 +158,4 @@ Added fake access point detection - 02/12/2025 20:00:14
 Added suspicious beacon frame detection - 02/13/2025 15:51:57
 Enhanced wireless monitoring engine - 02/13/2025 19:07:46
 Updated deauth detection heuristics - 02/13/2025 20:19:11
+Improved monitoring service reliability - 02/13/2025 11:43:30
