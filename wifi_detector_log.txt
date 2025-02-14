@@ -151,3 +151,4 @@ Enhanced detection algorithm accuracy - 02/14/2025 15:27:06
 Enhanced packet processing stability - 02/14/2025 20:42:04
 Improved real-time packet capture - 02/14/2025 16:17:32
 Updated threat detection rules - 02/14/2025 15:47:37
+Updated deauth detection heuristics - 02/14/2025 14:16:02
