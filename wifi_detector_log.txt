@@ -165,3 +165,4 @@ Improved packet parsing logic - 02/18/2025 10:47:33
 Improved detection sensitivity - 02/18/2025 13:18:41
 Added suspicious beacon frame detection - 02/18/2025 10:46:22
 Updated threat detection rules - 02/17/2025 14:40:20
+Initialized WiFi packet monitoring module - 02/17/2025 13:54:39
