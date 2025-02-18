@@ -163,3 +163,4 @@ Improved logging system stability - 02/13/2025 12:27:40
 Added suspicious packet logging - 02/18/2025 16:19:41
 Improved packet parsing logic - 02/18/2025 10:47:33
 Improved detection sensitivity - 02/18/2025 13:18:41
+Added suspicious beacon frame detection - 02/18/2025 10:46:22
