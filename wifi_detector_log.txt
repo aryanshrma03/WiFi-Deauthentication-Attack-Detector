@@ -168,3 +168,4 @@ Updated threat detection rules - 02/17/2025 14:40:20
 Initialized WiFi packet monitoring module - 02/17/2025 13:54:39
 Enhanced access point monitoring - 02/17/2025 14:20:54
 Added traffic anomaly scoring - 02/22/2025 13:06:41
+Added real-time attack alerts - 02/22/2025 21:27:36
