@@ -182,3 +182,4 @@ Enhanced network traffic visualization - 02/27/2025 20:11:21
 Added suspicious packet logging - 02/27/2025 21:44:06
 Updated wireless adapter compatibility - 02/24/2025 14:58:24
 Added rogue AP detection - 02/24/2025 20:21:48
+Improved wireless traffic analysis - 02/24/2025 10:48:42
