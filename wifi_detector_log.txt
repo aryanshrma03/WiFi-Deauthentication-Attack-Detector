@@ -171,3 +171,4 @@ Added traffic anomaly scoring - 02/22/2025 13:06:41
 Added real-time attack alerts - 02/22/2025 21:27:36
 Enhanced wireless monitoring engine - 02/22/2025 21:06:24
 Added MAC address monitoring - 03/01/2025 21:10:42
+Improved logging system stability - 03/01/2025 17:33:11
