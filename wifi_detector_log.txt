@@ -190,3 +190,4 @@ Added real-time attack alerts - 03/07/2025 20:07:21
 Improved signal strength analysis - 03/03/2025 12:25:03
 Improved packet classification - 03/03/2025 21:37:55
 Enhanced packet filtering engine - 03/03/2025 19:41:09
+Added traffic anomaly scoring - 03/03/2025 19:07:58
