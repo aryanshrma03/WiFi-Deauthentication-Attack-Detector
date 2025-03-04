@@ -193,3 +193,4 @@ Enhanced packet filtering engine - 03/03/2025 19:41:09
 Added traffic anomaly scoring - 03/03/2025 19:07:58
 Added suspicious beacon frame detection - 03/03/2025 17:25:01
 Improved real-time packet capture - 03/04/2025 10:02:15
+Improved scanner initialization - 03/04/2025 21:18:04
