@@ -195,3 +195,4 @@ Added suspicious beacon frame detection - 03/03/2025 17:25:01
 Improved real-time packet capture - 03/04/2025 10:02:15
 Improved scanner initialization - 03/04/2025 21:18:04
 Enhanced packet filtering engine - 03/04/2025 17:32:31
+Added rogue AP detection - 03/04/2025 12:07:19
