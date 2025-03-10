@@ -203,3 +203,4 @@ Enhanced deauth attack simulation - 03/13/2025 11:55:07
 Enhanced packet processing stability - 03/10/2025 13:48:04
 Enhanced wireless analysis workflow - 03/10/2025 15:09:48
 Added suspicious beacon frame detection - 03/10/2025 12:55:16
+Improved threat alert notifications - 03/10/2025 22:21:08
