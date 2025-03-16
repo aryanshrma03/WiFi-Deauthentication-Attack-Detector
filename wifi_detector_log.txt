@@ -220,3 +220,4 @@ Improved packet parsing logic - 03/17/2025 22:42:15
 Enhanced channel hopping support - 03/22/2025 18:14:32
 Enhanced packet filtering engine - 03/22/2025 18:25:01
 Added MAC address monitoring - 03/22/2025 11:29:42
+Enhanced wireless monitoring engine - 03/16/2025 14:51:01
