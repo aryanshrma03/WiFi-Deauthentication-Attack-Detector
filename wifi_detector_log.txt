@@ -213,3 +213,4 @@ Improved scanner initialization - 03/21/2025 10:38:40
 Fixed packet capture inconsistencies - 03/21/2025 16:55:42
 Enhanced wireless monitoring engine - 03/21/2025 13:48:16
 Improved wireless traffic analysis - 03/21/2025 11:30:00
+Added suspicious packet logging - 03/17/2025 22:28:14
