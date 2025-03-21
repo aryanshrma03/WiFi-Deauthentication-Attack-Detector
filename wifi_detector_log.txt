@@ -209,3 +209,4 @@ Enhanced channel hopping support - 03/09/2025 19:46:38
 Enhanced packet processing stability - 03/09/2025 19:51:40
 Enhanced channel hopping support - 03/09/2025 17:36:09
 Improved scanning efficiency - 03/09/2025 21:38:56
+Improved scanner initialization - 03/21/2025 10:38:40
