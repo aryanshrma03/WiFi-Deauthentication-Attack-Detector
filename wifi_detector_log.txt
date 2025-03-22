@@ -217,3 +217,4 @@ Added suspicious packet logging - 03/17/2025 22:28:14
 Enhanced access point monitoring - 03/17/2025 16:42:49
 Improved signal strength analysis - 03/17/2025 18:02:07
 Improved packet parsing logic - 03/17/2025 22:42:15
+Enhanced channel hopping support - 03/22/2025 18:14:32
