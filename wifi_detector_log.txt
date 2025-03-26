@@ -234,3 +234,4 @@ Improved scanner initialization - 03/29/2025 19:49:46
 Added wireless anomaly detection - 03/29/2025 15:06:13
 Enhanced packet processing stability - 03/26/2025 11:51:02
 Improved real-time packet capture - 03/26/2025 11:24:57
+Enhanced access point monitoring - 03/26/2025 18:45:22
