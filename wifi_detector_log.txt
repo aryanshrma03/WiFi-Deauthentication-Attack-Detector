@@ -223,3 +223,4 @@ Added MAC address monitoring - 03/22/2025 11:29:42
 Enhanced wireless monitoring engine - 03/16/2025 14:51:01
 Improved threat alert notifications - 03/16/2025 19:10:25
 Enhanced access point monitoring - 03/16/2025 18:21:38
+Improved detection sensitivity - 03/28/2025 19:57:30
