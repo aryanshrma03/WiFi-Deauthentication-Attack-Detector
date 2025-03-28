@@ -226,3 +226,4 @@ Enhanced access point monitoring - 03/16/2025 18:21:38
 Improved detection sensitivity - 03/28/2025 19:57:30
 Improved attack pattern analysis - 03/28/2025 10:21:45
 Added suspicious beacon frame detection - 03/28/2025 10:11:58
+Enhanced scanner performance - 03/28/2025 13:28:04
