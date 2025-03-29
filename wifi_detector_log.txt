@@ -228,3 +228,4 @@ Improved attack pattern analysis - 03/28/2025 10:21:45
 Added suspicious beacon frame detection - 03/28/2025 10:11:58
 Enhanced scanner performance - 03/28/2025 13:28:04
 Added rogue AP detection - 03/28/2025 14:47:33
+Added real-time attack alerts - 03/29/2025 20:52:38
